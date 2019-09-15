@@ -1,0 +1,592 @@
+[
+ {
+   "A": "substance_name",
+   "B": "category",
+   "C": "threshold"
+ },
+ {
+   "A": "Acetaldehyde",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Acetic acid (ethanoic acid)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Acetone",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Acetonitrile",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Acrolein",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Acrylamide",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Acrylic acid",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Acrylonitrile (2-propenenitrile)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ammonia (total)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Aniline (benzenamine)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Antimony & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Arsenic & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Arsenic & compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Benzene",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Benzene hexachloro - (HCB)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Beryllium & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Beryllium & compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Biphenyl (1,1-biphenyl)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Boron & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Butadiene (vinyl ethylene)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Cadmium & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Cadmium & compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Carbon disulfide",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Carbon monoxide",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Carbon monoxide",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Carbon monoxide",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Chlorine & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Chlorine dioxide",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Chloroethane (ethyl chloride)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Chloroform (trichloromethane)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Chlorophenols (di, tri, tetra)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Chromium (III) compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Chromium (III) compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Chromium (VI) compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Chromium (VI) compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Cobalt & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Copper & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Copper & compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Cumene (1-methylethylbenzene)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Cyanide (inorganic) compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Cyclohexane",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Dibromoethane",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Dibutyl phthalate",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Dichloroethane",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Dichloromethane",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ethanol",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ethoxyethanol",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ethoxyethanol acetate",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ethyl acetate",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ethyl butyl ketone",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ethylbenzene",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ethylene glycol (1,2-ethanediol)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Ethylene oxide",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Di-(2-Ethylhexyl) phthalate (DEHP)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Fluoride compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Fluoride compounds",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Fluoride compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Formaldehyde (methyl aldehyde)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Glutaraldehyde",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Hexane",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Hydrochloric acid",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Hydrochloric acid",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Hydrochloric acid",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Hydrogen sulfide",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Lead & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Lead & compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Magnesium oxide fume",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Magnesium oxide fume",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Manganese & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Mercury & compounds",
+   "B": "1b",
+   "C": "5 kilograms per year"
+ },
+ {
+   "A": "Mercury & compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Methanol",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Methoxyethanol",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Methoxyethanol acetate",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Methyl ethyl ketone",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Methyl isobutyl ketone",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Methyl methacrylate",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Methylene bis(2-chloroaniline) (MOCA)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Methylenebis (phenylisocyanate)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Nickel & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Nickel & compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Nickel carbonyl",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Nickel subsulfide",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Nitric acid",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Organo-tin compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Oxides of Nitrogen",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Oxides of Nitrogen",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Particulate Matter <2.5 µm (PM2.5)",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Particulate Matter <2.5 µm (PM2.5)",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Particulate Matter <10.0 µm (PM10)",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Particulate Matter <10.0 µm (PM10)",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Phenol",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Phosphoric acid",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Polychlorinated Biphenyls",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Polychlorinated dioxins and furans (TEQ)",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Polycyclic aromatic hydrocarbons (B[a]Peq)",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Polycyclic aromatic hydrocarbons (B[a]Peq)",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Selenium & compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Styrene (ethenylbenzene)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Sulfur dioxide",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Sulfur dioxide",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Sulfur dioxide",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Sulfuric acid",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Tetrachloroethane",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Tetrachloroethylene",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Toluene (methylbenzene)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Toluene-2,4-diisocyanate",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Total Nitrogen",
+   "B": "3",
+   "C": "15 tonnes per year"
+ },
+ {
+   "A": "Total Phosphorus",
+   "B": "3",
+   "C": "3 tonnes per year"
+ },
+ {
+   "A": "Total Volatile Organic Compounds",
+   "B": "1a",
+   "C": "25 tonnes per year"
+ },
+ {
+   "A": "Total Volatile Organic Compounds",
+   "B": "2a",
+   "C": "400 tonnes per year, or 1 tonne per hour"
+ },
+ {
+   "A": "Total Volatile Organic Compounds",
+   "B": "2b",
+   "C": "2,000 tonnes per year, or 60,000 megawatt hours, or rated at 20 megawatts"
+ },
+ {
+   "A": "Trichloroethane",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Trichloroethylene",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Vinyl Chloride Monomer",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Xylenes (individual or mixed isomers)",
+   "B": "1",
+   "C": "10 tonnes per year"
+ },
+ {
+   "A": "Zinc and compounds",
+   "B": "1",
+   "C": "10 tonnes per year"
+ }
+]
