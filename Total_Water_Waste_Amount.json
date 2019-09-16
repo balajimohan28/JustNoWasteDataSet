@@ -3,19 +3,19 @@
    "facility_id": 529030,
    "facility_name": "Western Treatment Plant",
    "Total_Water_Waste_Amount": 103122998.8,
-   "substance_name": " tri,Arsenic & compounds,Acetone,Ammonia (total),Particulate Matter ≤10.0 µm (PM10),Chlorophenols (di,Polychlorinated dioxins and furans (TEQ),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Boron & compounds,Hydrogen sulfide,Cadmium & compounds, tetra),Phenol,Copper & compounds,Beryllium & compounds,Dichloromethane,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Lead & compounds,Chromium (VI) compounds,Fluoride compounds,Total Nitrogen,Nickel & compounds"
+   "substance_name": " tri,Arsenic and compounds,Acetone,Ammonia (total),Particulate Matter ≤10.0 µm (PM10),Chlorophenols (di,Polychlorinated dioxins and furans (TEQ),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Boron and compounds,Hydrogen sulfide,Cadmium and compounds, tetra),Phenol,Copper and compounds,Beryllium and compounds,Dichloromethane,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Manganese and compounds,Carbon monoxide,Mercury and compounds,Total Phosphorus,Zinc and compounds,Lead and compounds,Chromium (VI) compounds,Fluoride compounds,Total Nitrogen,Nickel and compounds"
  },
  {
    "facility_id": 525080,
    "facility_name": "Eastern Treatment Plant",
    "Total_Water_Waste_Amount": 95242653.77,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Boron & compounds,Hydrogen sulfide,Cadmium & compounds,Chlorine & compounds,Phenol,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Lead & compounds,Chromium (VI) compounds,Fluoride compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Boron and compounds,Hydrogen sulfide,Cadmium and compounds,Chlorine and compounds,Phenol,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Total Phosphorus,Zinc and compounds,Lead and compounds,Chromium (VI) compounds,Fluoride compounds,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 532766,
    "facility_name": "Offshore Facilities - Bass Strait",
    "Total_Water_Waste_Amount": 9130874.585,
-   "substance_name": "Cyclohexane,Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Methanol,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Hydrogen sulfide,Cadmium & compounds,n-Hexane,Phenol,Copper & compounds,Beryllium & compounds,2-ethanediol),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Chromium (VI) compounds,Lead & compounds,Ethylene glycol (1,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Cyclohexane,Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Methanol,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Hydrogen sulfide,Cadmium and compounds,n-Hexane,Phenol,Copper and compounds,Beryllium and compounds,2-ethanediol),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Chromium (VI) compounds,Lead and compounds,Ethylene glycol (1,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 527804,
@@ -33,7 +33,7 @@
    "facility_id": 528278,
    "facility_name": "Mt Martha Water Recycling Plant",
    "Total_Water_Waste_Amount": 3511064.81,
-   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Oxides of Nitrogen,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Chlorine & compounds,Total Nitrogen,Total Phosphorus"
+   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Oxides of Nitrogen,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Chlorine and compounds,Total Nitrogen,Total Phosphorus"
  },
  {
    "facility_id": 532862,
@@ -57,25 +57,25 @@
    "facility_id": 527184,
    "facility_name": "SAPUTO DAIRY AUSTRALIA - LEONGATHA",
    "Total_Water_Waste_Amount": 1374616.412,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Toluene (methylbenzene),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Cadmium & compounds,Copper & compounds,Beryllium & compounds,Nitric acid,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Carbon monoxide,Total Phosphorus,Mercury & compounds,Lead & compounds,Chromium (VI) compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Toluene (methylbenzene),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Cadmium and compounds,Copper and compounds,Beryllium and compounds,Nitric acid,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Carbon monoxide,Total Phosphorus,Mercury and compounds,Lead and compounds,Chromium (VI) compounds,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 528298,
    "facility_name": "Boneo Water Recycling Plant",
    "Total_Water_Waste_Amount": 1277415.5,
-   "substance_name": "Hydrogen sulfide,Ammonia (total),Chlorine & compounds,Total Nitrogen,Total Phosphorus"
+   "substance_name": "Hydrogen sulfide,Ammonia (total),Chlorine and compounds,Total Nitrogen,Total Phosphorus"
  },
  {
    "facility_id": 529222,
    "facility_name": "Paper Australia Maryvale Mill",
    "Total_Water_Waste_Amount": 1067982.825,
-   "substance_name": "Chloroform (trichloromethane),Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Nickel subsulfide,Methanol,Cadmium & compounds,n-Hexane,Chlorine & compounds,Nickel carbonyl,Copper & compounds,Beryllium & compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Chlorine dioxide,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Chloroform (trichloromethane),Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Nickel subsulfide,Methanol,Cadmium and compounds,n-Hexane,Chlorine and compounds,Nickel carbonyl,Copper and compounds,Beryllium and compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Mercury and compounds,Total Phosphorus,Cobalt and compounds,Chromium (VI) compounds,Lead and compounds,Magnesium oxide fume,Fluoride compounds,Chlorine dioxide,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 526898,
    "facility_name": "Viva Energy Geelong Refinery",
    "Total_Water_Waste_Amount": 1056251.962,
-   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Methanol,Cumene (1-methylethylbenzene),Ethylbenzene,1,3-Butadiene (vinyl ethylene),Hydrogen sulfide,Cadmium & compounds,n-Hexane,Chlorine & compounds,Phenol,Copper & compounds,Beryllium & compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Formaldehyde (methyl aldehyde),Mercury & compounds,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Cyanide (inorganic) compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Methanol,Cumene (1-methylethylbenzene),Ethylbenzene,1,3-Butadiene (vinyl ethylene),Hydrogen sulfide,Cadmium and compounds,n-Hexane,Chlorine and compounds,Phenol,Copper and compounds,Beryllium and compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Formaldehyde (methyl aldehyde),Mercury and compounds,Cobalt and compounds,Chromium (VI) compounds,Lead and compounds,Fluoride compounds,Cyanide (inorganic) compounds,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 527876,
@@ -87,7 +87,7 @@
    "facility_id": 631236,
    "facility_name": "Victorian Desalination Plant – WATERSURE",
    "Total_Water_Waste_Amount": 841477.69,
-   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Particulate Matter ≤2.5 µm (PM2.5),Fluoride compounds,Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Sulfuric acid,Total Nitrogen,Boron & compounds,Total Phosphorus"
+   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Particulate Matter ≤2.5 µm (PM2.5),Fluoride compounds,Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Sulfuric acid,Total Nitrogen,Boron and compounds,Total Phosphorus"
  },
  {
    "facility_id": 528510,
@@ -99,7 +99,7 @@
    "facility_id": 526764,
    "facility_name": "EnergyAustralia Yallourn",
    "Total_Water_Waste_Amount": 822691.52,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron and compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Total Phosphorus,Zinc and compounds,Chromium (VI) compounds,Lead and compounds,Fluoride compounds,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 528028,
@@ -115,7 +115,7 @@
  },
  {
    "facility_id": 533652,
-   "facility_name": "Wonthaggi, Inverloch & Cape Paterson WWTPs",
+   "facility_name": "Wonthaggi, Inverloch and Cape Paterson WWTPs",
    "Total_Water_Waste_Amount": 644256,
    "substance_name": "Ammonia (total),Total Phosphorus,Total Nitrogen"
  }

@@ -3,31 +3,31 @@
    "facility_id": 536524,
    "facility_name": "Douglas Mineral Sands Mine",
    "Total_Air_Fugitive_Waste_Amount": 35789549.47,
-   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Arsenic & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Cobalt & compounds,Lead & compounds,Fluoride compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Arsenic and compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron and compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Zinc and compounds,Cobalt and compounds,Lead and compounds,Fluoride compounds,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 526972,
    "facility_name": "AGL Loy Yang",
    "Total_Air_Fugitive_Waste_Amount": 24532657.31,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Selenium & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Chlorine & compounds,Antimony & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Selenium and compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron and compounds,Cadmium and compounds,Chlorine and compounds,Antimony and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Total Phosphorus,Zinc and compounds,Cobalt and compounds,Chromium (VI) compounds,Lead and compounds,Magnesium oxide fume,Fluoride compounds,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 526934,
    "facility_name": "ENGIE Hazelwood Power Station and Mine",
    "Total_Air_Fugitive_Waste_Amount": 21278231.98,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Selenium & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Ethylbenzene,Boron & compounds,Cadmium & compounds,Chlorine & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Selenium and compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Ethylbenzene,Boron and compounds,Cadmium and compounds,Chlorine and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Total Phosphorus,Zinc and compounds,Chromium (VI) compounds,Lead and compounds,Fluoride compounds,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 526898,
    "facility_name": "Viva Energy Geelong Refinery",
    "Total_Air_Fugitive_Waste_Amount": 17701242.61,
-   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Methanol,Cumene (1-methylethylbenzene),Ethylbenzene,1,3-Butadiene (vinyl ethylene),Hydrogen sulfide,Cadmium & compounds,n-Hexane,Chlorine & compounds,Phenol,Copper & compounds,Beryllium & compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Formaldehyde (methyl aldehyde),Mercury & compounds,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Cyanide (inorganic) compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Methanol,Cumene (1-methylethylbenzene),Ethylbenzene,1,3-Butadiene (vinyl ethylene),Hydrogen sulfide,Cadmium and compounds,n-Hexane,Chlorine and compounds,Phenol,Copper and compounds,Beryllium and compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Formaldehyde (methyl aldehyde),Mercury and compounds,Cobalt and compounds,Chromium (VI) compounds,Lead and compounds,Fluoride compounds,Cyanide (inorganic) compounds,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 588366,
    "facility_name": "WRP mine",
    "Total_Air_Fugitive_Waste_Amount": 16970949.26,
-   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Arsenic & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Cobalt & compounds,Lead & compounds,Fluoride compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Arsenic and compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron and compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Zinc and compounds,Cobalt and compounds,Lead and compounds,Fluoride compounds,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 532638,
@@ -39,61 +39,61 @@
    "facility_id": 535914,
    "facility_name": "Teys Australia Charlton",
    "Total_Air_Fugitive_Waste_Amount": 14402032.06,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Mercury & compounds"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Mercury and compounds"
  },
  {
    "facility_id": 529400,
    "facility_name": "Fosterville Gold Mine",
    "Total_Air_Fugitive_Waste_Amount": 11007626.07,
-   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon disulfide,Benzene,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Boron & compounds,Hydrogen sulfide,Cadmium & compounds,n-Hexane,Antimony & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Formaldehyde (methyl aldehyde),Zinc and compounds,Cobalt & compounds,Lead & compounds,Chromium (VI) compounds,Fluoride compounds,Cyanide (inorganic) compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon disulfide,Benzene,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Boron and compounds,Hydrogen sulfide,Cadmium and compounds,n-Hexane,Antimony and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Formaldehyde (methyl aldehyde),Zinc and compounds,Cobalt and compounds,Lead and compounds,Chromium (VI) compounds,Fluoride compounds,Cyanide (inorganic) compounds,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 525412,
    "facility_name": "Altona Refinery",
    "Total_Air_Fugitive_Waste_Amount": 10285502.52,
-   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Selenium & compounds,Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon disulfide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,1,Hydrogen sulfide,Cadmium & compounds,n-Hexane,Antimony & compounds,Phenol,Copper & compounds,Beryllium & compounds,Acetaldehyde,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Manganese & compounds,Carbon monoxide,2-Dichloroethane,Mercury & compounds,Formaldehyde (methyl aldehyde),Zinc and compounds,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Styrene (ethenylbenzene),Cyanide (inorganic) compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Selenium and compounds,Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon disulfide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,1,Hydrogen sulfide,Cadmium and compounds,n-Hexane,Antimony and compounds,Phenol,Copper and compounds,Beryllium and compounds,Acetaldehyde,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Manganese and compounds,Carbon monoxide,2-Dichloroethane,Mercury and compounds,Formaldehyde (methyl aldehyde),Zinc and compounds,Cobalt and compounds,Chromium (VI) compounds,Lead and compounds,Styrene (ethenylbenzene),Cyanide (inorganic) compounds,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 574552,
    "facility_name": "Kulwin Mineral Sands Mine",
    "Total_Air_Fugitive_Waste_Amount": 9919826.043,
-   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Arsenic & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Cobalt & compounds,Lead & compounds,Fluoride compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Particulate Matter ≤10.0 µm (PM10),Arsenic and compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Boron and compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Zinc and compounds,Cobalt and compounds,Lead and compounds,Fluoride compounds,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 535022,
    "facility_name": "Stawell Gold Mine",
    "Total_Air_Fugitive_Waste_Amount": 8237501.147,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon disulfide,Benzene,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,n-Hexane,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Formaldehyde (methyl aldehyde),Zinc and compounds,Cobalt & compounds,Lead & compounds,Chromium (VI) compounds,Fluoride compounds,Cyanide (inorganic) compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon disulfide,Benzene,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron and compounds,Cadmium and compounds,n-Hexane,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Formaldehyde (methyl aldehyde),Zinc and compounds,Cobalt and compounds,Lead and compounds,Chromium (VI) compounds,Fluoride compounds,Cyanide (inorganic) compounds,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 533778,
    "facility_name": "Oaklands quarry",
    "Total_Air_Fugitive_Waste_Amount": 6598111.663,
-   "substance_name": "Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Nitric acid,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Nickel & compounds"
+   "substance_name": "Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron and compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Nitric acid,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Zinc and compounds,Chromium (VI) compounds,Lead and compounds,Fluoride compounds,Nickel and compounds"
  },
  {
    "facility_id": 525616,
    "facility_name": "Liberty OneSteel",
    "Total_Air_Fugitive_Waste_Amount": 6429987.975,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Cobalt & compounds,Lead & compounds,Chromium (VI) compounds,Magnesium oxide fume,Fluoride compounds,Nickel & compounds"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Zinc and compounds,Cobalt and compounds,Lead and compounds,Chromium (VI) compounds,Magnesium oxide fume,Fluoride compounds,Nickel and compounds"
  },
  {
    "facility_id": 525556,
    "facility_name": "BORAL CEMENT LIMITED",
    "Total_Air_Fugitive_Waste_Amount": 6250012.09,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Lead & compounds,Fluoride compounds,Nickel & compounds"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Zinc and compounds,Lead and compounds,Fluoride compounds,Nickel and compounds"
  },
  {
    "facility_id": 536130,
    "facility_name": "Huntly",
    "Total_Air_Fugitive_Waste_Amount": 4577645.385,
-   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,1,3-Butadiene (vinyl ethylene),n-Hexane,Acetaldehyde,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Carbon monoxide,Mercury & compounds,Formaldehyde (methyl aldehyde),Lead & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,1,3-Butadiene (vinyl ethylene),n-Hexane,Acetaldehyde,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Carbon monoxide,Mercury and compounds,Formaldehyde (methyl aldehyde),Lead and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 526764,
    "facility_name": "EnergyAustralia Yallourn",
    "Total_Air_Fugitive_Waste_Amount": 3810783.78,
-   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron and compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Total Phosphorus,Zinc and compounds,Chromium (VI) compounds,Lead and compounds,Fluoride compounds,Total Nitrogen,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 532862,
@@ -105,18 +105,18 @@
    "facility_id": 530506,
    "facility_name": "Boral Quarry Deer Park",
    "Total_Air_Fugitive_Waste_Amount": 3463856.204,
-   "substance_name": "Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Cobalt & compounds,Lead & compounds,Fluoride compounds,Nickel & compounds"
+   "substance_name": "Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron and compounds,Cadmium and compounds,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese and compounds,Carbon monoxide,Mercury and compounds,Zinc and compounds,Cobalt and compounds,Lead and compounds,Fluoride compounds,Nickel and compounds"
  },
  {
    "facility_id": 527322,
    "facility_name": "Esso - Long Island Point",
    "Total_Air_Fugitive_Waste_Amount": 3389370.568,
-   "substance_name": "Cyclohexane,Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Hydrogen sulfide,Cadmium & compounds,n-Hexane,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Carbon monoxide,Mercury & compounds,Chromium (VI) compounds,Lead & compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+   "substance_name": "Cyclohexane,Arsenic and compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Hydrogen sulfide,Cadmium and compounds,n-Hexane,Copper and compounds,Beryllium and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Carbon monoxide,Mercury and compounds,Chromium (VI) compounds,Lead and compounds,Nickel and compounds,Xylenes (individual or mixed isomers)"
  },
  {
    "facility_id": 533208,
    "facility_name": "Boral Quarry Bacchus Marsh",
    "Total_Air_Fugitive_Waste_Amount": 3376037.012,
-   "substance_name": "Copper & compounds,Particulate Matter ≤10.0 µm (PM10),Zinc and compounds,Cobalt & compounds,Lead & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Fluoride compounds,Chromium (III) compounds,Manganese & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon monoxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron & compounds,Mercury & compounds,Nickel & compounds"
+   "substance_name": "Copper and compounds,Particulate Matter ≤10.0 µm (PM10),Zinc and compounds,Cobalt and compounds,Lead and compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Fluoride compounds,Chromium (III) compounds,Manganese and compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon monoxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Boron and compounds,Mercury and compounds,Nickel and compounds"
  }
 ]
