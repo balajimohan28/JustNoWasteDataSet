@@ -1,0 +1,5702 @@
+[
+ {
+   "facility_id": 526972,
+   "facility_name": "AGL Loy Yang",
+   "Total_Air_Point_Waste_Amount": 1747004016,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Selenium & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Chlorine & compounds,Antimony & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 529376,
+   "facility_name": "Alcoa Portland Aluminium",
+   "Total_Air_Point_Waste_Amount": 755945643.2,
+   "substance_name": "Copper & compounds,Beryllium & compounds,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Lead & compounds,Cadmium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Magnesium oxide fume,Oxides of Nitrogen,Fluoride compounds,Chromium (III) compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Mercury & compounds,Nickel & compounds"
+ },
+ {
+   "facility_id": 527210,
+   "facility_name": "Alcoa Anglesea Power Station",
+   "Total_Air_Point_Waste_Amount": 708312304.9,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Particulate Matter ≤10.0 µm (PM10),Arsenic & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Nickel & compounds"
+ },
+ {
+   "facility_id": 534148,
+   "facility_name": "Loy Yang B Power Station",
+   "Total_Air_Point_Waste_Amount": 670182739,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Nickel & compounds"
+ },
+ {
+   "facility_id": 529356,
+   "facility_name": "Alcoa Point Henry Smelter",
+   "Total_Air_Point_Waste_Amount": 350570585.6,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Nickel & compounds"
+ },
+ {
+   "facility_id": 526934,
+   "facility_name": "ENGIE Hazelwood Power Station and Mine",
+   "Total_Air_Point_Waste_Amount": 249750672.6,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Selenium & compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Ethylbenzene,Boron & compounds,Cadmium & compounds,Chlorine & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 526764,
+   "facility_name": "EnergyAustralia Yallourn",
+   "Total_Air_Point_Waste_Amount": 216401416.1,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Cumene (1-methylethylbenzene),Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 527104,
+   "facility_name": "Esso - Crude Oil Stabilisation Plant",
+   "Total_Air_Point_Waste_Amount": 133236874.6,
+   "substance_name": "Cyclohexane,Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Methanol,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Hydrogen sulfide,Cadmium & compounds,n-Hexane,Copper & compounds,Beryllium & compounds,2-ethanediol),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Carbon monoxide,Mercury & compounds,Chromium (VI) compounds,Lead & compounds,Ethylene glycol (1,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 532928,
+   "facility_name": "Loy Yang B Power Station",
+   "Total_Air_Point_Waste_Amount": 132729507.3,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Nickel & compounds"
+ },
+ {
+   "facility_id": 527088,
+   "facility_name": "Energy Brix Aust Corp P/L",
+   "Total_Air_Point_Waste_Amount": 119806173.1,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Boron & compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Chromium (VI) compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Nickel & compounds"
+ },
+ {
+   "facility_id": 526898,
+   "facility_name": "Viva Energy Geelong Refinery",
+   "Total_Air_Point_Waste_Amount": 90883170.56,
+   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Methanol,Cumene (1-methylethylbenzene),Ethylbenzene,1,3-Butadiene (vinyl ethylene),Hydrogen sulfide,Cadmium & compounds,n-Hexane,Chlorine & compounds,Phenol,Copper & compounds,Beryllium & compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Formaldehyde (methyl aldehyde),Mercury & compounds,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Fluoride compounds,Cyanide (inorganic) compounds,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 525412,
+   "facility_name": "Altona Refinery",
+   "Total_Air_Point_Waste_Amount": 72550445.64,
+   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Selenium & compounds,Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Carbon disulfide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,1,Hydrogen sulfide,Cadmium & compounds,n-Hexane,Antimony & compounds,Phenol,Copper & compounds,Beryllium & compounds,Acetaldehyde,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Manganese & compounds,Carbon monoxide,2-Dichloroethane,Mercury & compounds,Formaldehyde (methyl aldehyde),Zinc and compounds,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Styrene (ethenylbenzene),Cyanide (inorganic) compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 532766,
+   "facility_name": "Offshore Facilities - Bass Strait",
+   "Total_Air_Point_Waste_Amount": 53862720.72,
+   "substance_name": "Cyclohexane,Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Methanol,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Hydrogen sulfide,Cadmium & compounds,n-Hexane,Phenol,Copper & compounds,Beryllium & compounds,2-ethanediol),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Chromium (VI) compounds,Lead & compounds,Ethylene glycol (1,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 529222,
+   "facility_name": "Paper Australia Maryvale Mill",
+   "Total_Air_Point_Waste_Amount": 43375911.7,
+   "substance_name": "Chloroform (trichloromethane),Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Acetone,Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Sulfuric acid,Nickel subsulfide,Methanol,Cadmium & compounds,n-Hexane,Chlorine & compounds,Nickel carbonyl,Copper & compounds,Beryllium & compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Mercury & compounds,Total Phosphorus,Cobalt & compounds,Chromium (VI) compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Chlorine dioxide,Total Nitrogen,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 527322,
+   "facility_name": "Esso - Long Island Point",
+   "Total_Air_Point_Waste_Amount": 29050200.58,
+   "substance_name": "Cyclohexane,Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cumene (1-methylethylbenzene),Ethylbenzene,Hydrogen sulfide,Cadmium & compounds,n-Hexane,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Chromium (III) compounds,Carbon monoxide,Mercury & compounds,Chromium (VI) compounds,Lead & compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 526686,
+   "facility_name": "HASTINGS",
+   "Total_Air_Point_Waste_Amount": 24051731.67,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Acetone,Ammonia (total),Toluene (methylbenzene),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Ethylbenzene,Cadmium & compounds,Copper & compounds,Beryllium & compounds,2-ethanediol),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Ethylene glycol (1,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 527022,
+   "facility_name": "QENOS PTY LTD",
+   "Total_Air_Point_Waste_Amount": 23345461.22,
+   "substance_name": "Cyclohexane,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Ammonia (total),Toluene (methylbenzene),Benzene,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Methanol,Total Volatile Organic Compounds,Ethylbenzene,1,3-Butadiene (vinyl ethylene),Cadmium & compounds,n-Hexane,Copper & compounds,Beryllium & compounds,Methyl ethyl ketone,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Chromium (VI) compounds,Lead & compounds,Styrene (ethenylbenzene),Fluoride compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": 526496,
+   "facility_name": "OI Melbourne Plant",
+   "Total_Air_Point_Waste_Amount": 21132684.16,
+   "substance_name": "Copper & compounds,Beryllium & compounds,Organo-tin compounds,Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Polychlorinated dioxins and furans (TEQ),Lead & compounds,Cadmium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Mercury & compounds,Nickel & compounds"
+ },
+ {
+   "facility_id": 525556,
+   "facility_name": "BORAL CEMENT LIMITED",
+   "Total_Air_Point_Waste_Amount": 19533328.39,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Manganese & compounds,Carbon monoxide,Mercury & compounds,Zinc and compounds,Lead & compounds,Fluoride compounds,Nickel & compounds"
+ },
+ {
+   "facility_id": 524292,
+   "facility_name": "Viridian Dandenong",
+   "Total_Air_Point_Waste_Amount": 18966686.17,
+   "substance_name": "Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Particulate Matter ≤2.5 µm (PM2.5),Sulfur dioxide,Total Volatile Organic Compounds,Cadmium & compounds,Copper & compounds,Beryllium & compounds,Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Hydrochloric acid,Chromium (III) compounds,Carbon monoxide,Mercury & compounds,Chromium (VI) compounds,Lead & compounds,Magnesium oxide fume,Fluoride compounds,Nickel & compounds,Xylenes (individual or mixed isomers)"
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ },
+ {
+   "facility_id": null,
+   "facility_name": "",
+   "Total_Air_Point_Waste_Amount": null,
+   "substance_name": ""
+ }
+]
