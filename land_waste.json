@@ -112,5 +112,11 @@
    "facility_name": "AGL Werribee Biogas Facility",
    "Total_Land_Waste_Amount": 157029.151,
    "substance_name": "Particulate Matter ≤10.0 µm (PM10),Polycyclic aromatic hydrocarbons (B[a]Peq),Oxides of Nitrogen,Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide"
+ },
+ {
+   "facility_id": 595342,
+   "facility_name": "AGL Qenos Cogeneration",
+   "Total_Land_Waste_Amount": 150757.6804,
+   "substance_name": "Copper & compounds,Beryllium & compounds,Polychlorinated dioxins and furans (TEQ),Arsenic & compounds,Particulate Matter ≤10.0 µm (PM10),Chromium (VI) compounds,Cadmium & compounds,Lead & compounds,Oxides of Nitrogen,Polycyclic aromatic hydrocarbons (B[a]Peq),Particulate Matter ≤2.5 µm (PM2.5),Chromium (III) compounds,Sulfur dioxide,Total Volatile Organic Compounds,Carbon monoxide,Mercury & compounds,Nickel & compounds"
  }
 ]
